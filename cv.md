@@ -4,7 +4,7 @@
 * __Number:__ +7(707)786-57-75
 * __Discrord:__ aartorius#0994
 * __Telegram:__[link](https://t.me/aartorius)
-* __E-mail:__also173004@gmail.com
+* __E-mail:__ also173004@gmail.com
 ### About me
 * *I'm trying to find myself in this world. I'm constantly trying something new.*
 * *I know a little of everything. But I'm trying to master JavaScript more in order to go to Frontend.*
