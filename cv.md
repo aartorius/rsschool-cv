@@ -1,5 +1,5 @@
 # About me
-![image] (C:\Users\also1\Desktop\Новая папка\photo.jpg)
+![image] (D:\rs_school\rsschool-cv\photo.jpg)
 * __Li Artur Grigorievich__
 * __My number +7(707)786-57-75, Discrord- aartorius.__
 * *I'm trying to find myself in this world. I'm constantly trying something new.*
@@ -7,9 +7,7 @@
 * ```
 function multiply (a, b) {
 return a * b
-}
-```
-* *I haven't worked in the IT field yet. I was busy studying and had no opportunity to combine.*
-* https://github.com/aartorius/rsschool-cv/blob/e037a69ffdf84d39cf08d74e89839909d69ff0d7/cv.md
+}```
+* *I haven't worked in the IT field yet. I was busy studying and had no opportunity to combine. https://github.com/aartorius/rsschool-cv/blob/e037a69ffdf84d39cf08d74e89839909d69ff0d7/cv.md*
 * *I graduated from the Kazakh Agrotechnical University named after Saken Seifullin in the city of Nursultan. Specialty information systems. Now I am continuing my master's degree in the same specialty.*
 * *I speak English at an average level, I had experience communicating with foreigners in the camp.  Basic knowledge of the Korean language.*
